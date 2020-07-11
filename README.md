@@ -1,2 +1,2 @@
 # bio
-My bio page.
+<a href="index.html">My bio page</a>
